@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+ul{
+    margin-top:15px;
+}
+
+li{
+    display: inline;
+    margin-left:15px;
+    list-style: none;
+}
+li button{
+    padding:5px;
+}
+
+.wrapper{
+    margin-top:20px;
+}
+
+.margin-b15{
+    margin-bottom:15px;
+}
